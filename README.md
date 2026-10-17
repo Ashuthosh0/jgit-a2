@@ -1,1 +1,1 @@
-# jgit-a2
+Add initial content to readme.txt
